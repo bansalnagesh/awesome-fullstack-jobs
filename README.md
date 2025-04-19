@@ -6,25 +6,23 @@ A curated list of the best full stack developer jobs, updated daily.
 
 ## Latest Jobs
 
-*Updated on 2025-04-16*
+*Updated on 2025-04-19*
 
 | Company | Position | Location | Posted | Apply |
 | ------- | -------- | -------- | ------ | ------ |
-| ATCOM Chile | Desarrollador Fullstack (Remoto) | 📍 Chile | Apr 16 | [Apply](https://starjobs.dev/jobs/cc50df8b05d0403696e15a4cc953d28e?utm=github) |
-| Oracle | Full Stack Engineer | 📍 Spain | Apr 16 | [Apply](https://starjobs.dev/jobs/45d15c299bac442ca7de201f7c2363f2?utm=github) |
-| SSI Outsourcing | Programador full stack | 📍 Santiago, Santiago Metropolitan Region, Chile | Apr 16 | [Apply](https://starjobs.dev/jobs/eb22e306dcce445c8f77bd4579b4514d?utm=github) |
-| Trepp, Inc. | Full Stack Engineer | 🌐 Remote | Apr 15 | [Apply](https://starjobs.dev/jobs/a5577b7bbd564860882af3ff6a2c3265?utm=github) |
-| SupportFinity™ | Full Stack Engineer | 📍 APJ | Apr 15 | [Apply](https://starjobs.dev/jobs/b067ce96509140f394c8ff240cee7441?utm=github) |
-| TerraScale | FullStack Software Engineer (Remote) | 📍 Minsk, Belarus | Apr 15 | [Apply](https://starjobs.dev/jobs/9c3a5f80c98041cd9bc4ee5b14e4370f?utm=github) |
-| Zensar Technologies | Full Stack Engineer | 📍 India | Apr 15 | [Apply](https://starjobs.dev/jobs/0ed82fd1f30043318c54c668ff0a8924?utm=github) |
-| Wiraa | Sr. Java Full Stack Engineer ( with Angular) 💰 | 🌐 Remote | Apr 14 | [Apply](https://starjobs.dev/jobs/dc0a86223a0c42c0a36b4eb4417e0811?utm=github) |
-| UST | Full stack Developer | 📍 Mexico | Apr 14 | [Apply](https://starjobs.dev/jobs/5e35bbaafe6442d7aa4062485faad633?utm=github) |
-| Reebelo | Senior Full Stack Engineer | 🌐 Remote | Apr 14 | [Apply](https://starjobs.dev/jobs/4b2ba114398a4535b7f7c6d5c7a3e97d?utm=github) |
-| BLOOMTECH, Inc | Full-Stack Engineer | 📍 Japan | Apr 14 | [Apply](https://starjobs.dev/jobs/db2aa821c8844b86b9b19f13f3251920?utm=github) |
-| CREALOGIX | Full Stack Software Engineer (m/w/d) | 📍 Winchester, England, United Kingdom | Apr 14 | [Apply](https://starjobs.dev/jobs/b893858e208f4001a0b7758592412b16?utm=github) |
-| Stefanini LATAM | Programador full stack | 📍 Bogota, D.C., Capital District, Colombia | Apr 14 | [Apply](https://starjobs.dev/jobs/97b660997ccf46a1825162de45d18eeb?utm=github) |
-| KOMOJU by Degica | Junior Full-stack Customer Engineer | 🌐 Remote | Apr 14 | [Apply](https://starjobs.dev/jobs/23430bf9e7164560b437218401fef220?utm=github) |
-| MAIA | Fullstack Applied AI Engineer (f/m/x) | 🌐 Remote | Apr 14 | [Apply](https://starjobs.dev/jobs/2aba8d3159244aa182366969885fb384?utm=github) |
+| Ford Motor Company | Full-Stack Software Engineer | 🌐 Remote | Apr 17 | [Apply](https://starjobs.dev/jobs/56452989a7114d81a282d25e6932ee23?utm=github) |
+| DXC Technology | Java Fullstack Developer | 📍 Philippines | Apr 17 | [Apply](https://starjobs.dev/jobs/8ee2842bc7aa4db185d34fcfa6897ef7?utm=github) |
+| Gluo | Software Developer — Full-Stack JavaScript - Talent Pool | 🌐 Remote | Apr 17 | [Apply](https://starjobs.dev/jobs/fec0d10748fa40658118bcff056d14f4?utm=github) |
+| MACH AG | Full-Stack-Entwickler:in (m/w/d) | 🌐 Remote | Apr 17 | [Apply](https://starjobs.dev/jobs/60b57b076f944d84a3a905378da65ab2?utm=github) |
+| Allcore spa | Sviluppatore FULLSTACK AI | 📍 Italy | Apr 17 | [Apply](https://starjobs.dev/jobs/e39dff5ac24140f0bd2c29198c3b548f?utm=github) |
+| PT Inovasi Sukses Sentosa (Indotrading.com) | Full Stack Developer (.Net) | 📍 Depok, Yogyakarta, Indonesia | Apr 17 | [Apply](https://starjobs.dev/jobs/d8449140566042619eb724113d581861?utm=github) |
+| Matrix Eastern Europe | Full Stack Engineer | 📍 Ukraine | Apr 17 | [Apply](https://starjobs.dev/jobs/4d152aa8d8b64882a67162255095e20b?utm=github) |
+| Meraki Talent | Full Stack Software Engineer (C# / .NET / React) | 📍 Nottingham, England, United Kingdom | Apr 17 | [Apply](https://starjobs.dev/jobs/f8388fd2eb3f4e84af3e6e60bb6158d8?utm=github) |
+| ARHS | Full Stack Developer | 🌐 Remote | Apr 15 | [Apply](https://starjobs.dev/jobs/41b88a5a55494fea9aba8c88ee0a7adc?utm=github) |
+| Virtustant | Full Stack Developer | 📍 Argentina | Apr 15 | [Apply](https://starjobs.dev/jobs/3a7bae67a50f4d0e9e912eea41ae2107?utm=github) |
+| Crossover | Full-stack Developer, Trilogy (Remote) - $60,000/year USD | 📍 Greater Kolkata Area | Apr 15 | [Apply](https://starjobs.dev/jobs/624423855d8547c3964170625a0a7158?utm=github) |
+| Launchmetrics | Fullstack Software Engineer PHP / React | 🌐 Remote | Apr 15 | [Apply](https://starjobs.dev/jobs/c926b60f81724350b2d484638a86a06c?utm=github) |
+| Crossover | Full Stack Developer, Trilogy (Remote) - $60,000/year USD | 📍 Nanjangud, Karnataka, India | Apr 15 | [Apply](https://starjobs.dev/jobs/e938a2bd125e4c498fdb69135f9120d8?utm=github) |
 
 
 ## About This List
@@ -37,9 +35,9 @@ This list is automatically updated daily with fresh job opportunities.
 
 ## Other Awesome Job Lists
 
-* [Tech Jobs in the USA](https://github.com/bansalnagesh/tech-jobs-usa)
-* [Game Development Jobs](https://github.com/bansalnagesh/game-development-jobs)
-* [Awesome Backend Jobs](https://github.com/bansalnagesh/awesome-backend-jobs)
+* [High Paying Tech Jobs](https://github.com/bansalnagesh/high-paying-tech-jobs)
+* [Awesome Remote Tech Jobs](https://github.com/bansalnagesh/awesome-remote-tech-jobs)
+* [Awesome Frontend Jobs](https://github.com/bansalnagesh/awesome-frontend-jobs)
+* [Awesome AI & Machine Learning Jobs](https://github.com/bansalnagesh/awesome-ai-ml-jobs)
 * [Entry Level Tech Jobs](https://github.com/bansalnagesh/entry-level-tech-jobs)
-* [UX & Design Jobs](https://github.com/bansalnagesh/ux-design-jobs)
 * [Product Management Jobs](https://github.com/bansalnagesh/product-management-jobs)
